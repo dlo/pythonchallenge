@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+URL: http://www.pythonchallenge.com/pc/def/peak.html
+"""
+
 import re
 import httplib
 import pickle

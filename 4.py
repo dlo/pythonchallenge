@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+URL: http://www.pythonchallenge.com/pc/def/linkedlist.php
+"""
+
 import re
 import httplib
 
